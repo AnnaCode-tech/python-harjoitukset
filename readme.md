@@ -27,3 +27,7 @@ Tein tehtävät 1-5.
 ##Moduuli 5
 
 Tein kaikki neljä tehtävää
+
+##Kertaustehtävät
+
+Tein kaikki yhdeksän tehtävää
